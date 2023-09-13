@@ -1,0 +1,48 @@
+.man{
+    width: 50%;
+    height: 50%;
+    background-color: blueviolet;
+    position: relative;
+    top: 50px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    border: 2px solid blue;
+}
+.man p{
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-size:larger;
+    cursor: pointer;
+    font-style: italic;
+    
+}
+input{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    font-size: medium;
+    align-items: center;
+    position: relative;
+     left: 300px;
+}
+button{
+    background-color: aqua;
+    color: white;
+    padding: 1re 4rem;
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 200px;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: 900;
+    padding: 5px;
+    font-size: 500;
+    position: relative;
+    left: 300px;
+
+}
